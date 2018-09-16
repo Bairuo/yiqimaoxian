@@ -4,6 +4,8 @@
 
 下载 https://jiangzr.com/yiqimaoxian/
 
+若域名失效，可用 https://bairuo.github.io/yiqimaoxian/
+
 ![Game screenshot](https://github.com/Bairuo/yiqimaoxian/raw/gh-pages/Meta/game1.png)
 
 ![Game screenshot](https://github.com/Bairuo/yiqimaoxian/raw/gh-pages/Meta/game2.png)
